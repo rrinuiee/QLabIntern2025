@@ -35,6 +35,6 @@ Run the time series model:
 python dlinear_timeseries.py
 
 
-Acknowledgment
+Acknowledgment:
 This project was completed as part of the QLabIntern2025 internship challenge.
 
